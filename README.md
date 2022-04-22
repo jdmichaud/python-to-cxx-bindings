@@ -22,4 +22,4 @@ waf!
 
 ## Process
 
-[process graph](process.svg)
+[process graph](./process.svg)
